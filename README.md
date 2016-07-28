@@ -1,0 +1,2 @@
+# CleaningBot
+This robot drives autonomous around the house sweeping. The robot has multiple sensors: three hc-sr05 distance sensor and a bumper. The bumper detects low nearby objects and the distance sensors detect objects on a distance. If the robot detects a object it goes backwards and turns to go past the object. The microcontroller used on the robot is a Arduino uno WiFi and it's connected to the WiFi network spitting out all the data it collects. 
